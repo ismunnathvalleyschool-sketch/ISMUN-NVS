@@ -50,13 +50,13 @@ window.ISMUN_DATA = {
     },
     {
       "name": "UNODC",
-      "type": "Joint Crisis Comittee",
+      "type": "Office on Drugs and Crime",
       "agenda": "Combating the Online Trafficking of Synthetic Opioids and Disrupting Anonymized Financial Networks on the Darknet.",
       "guide": "#"
     },
     {
       "name": "UNSRA",
-      "type": "Joint Crisis Comittee",
+      "type": "Space Research Association",
       "agenda": "Mitigating the Proliferation of Orbital Debris, Securing Uncontrolled Satellites, and Preventing the Weaponization of Space Infrastructure.",
       "guide": "#"
     },
