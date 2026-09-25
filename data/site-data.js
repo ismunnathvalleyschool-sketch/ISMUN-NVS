@@ -8,7 +8,7 @@ window.ISMUN_DATA = {
     "dates": "24th & 25th October 2026",
     "tagline": "READ, THINK, QUESTION, CHANGE.",
     "registrationUrl": "https://forms.google.com/REPLACE_WITH_REGISTRATION_FORM",
-    "contactEmail": "REPLACE_WITH_MUN_EMAIL",
+    "contactEmail": "ismunnathvalleyschool@gmail.com",
     "whatsappUrl": "https://wa.me/91XXXXXXXXXX"
   },
   "secretariat": [
@@ -27,11 +27,7 @@ window.ISMUN_DATA = {
       "name": "Arvika Patil",
       "photo": ""
     },
-    {
-      "role": "USG \u2014 Technology and Design",
-      "name": "Bhavya Mutha",
-      "photo": ""
-    }
+  
   ],
   "committees": [
     {
