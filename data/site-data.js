@@ -20,7 +20,7 @@ window.ISMUN_DATA = {
     {
       "role": "Deputy Secretary-General",
       "name": "Hiya Jain",
-      "photo": ""
+      "photo": "assets/hj.jpeg"
     },
     {
       "role": "Deputy Secretary-General",
