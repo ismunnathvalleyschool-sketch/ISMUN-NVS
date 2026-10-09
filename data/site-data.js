@@ -34,48 +34,50 @@ window.ISMUN_DATA = {
       "name": "LOK SABHA",
       "type": "Parliament Lower House",
       "agenda": "Deliberations on the Right to Peaceful Assembly, Civil Liberties, and the Maintenance of Public Order across States and Union Territories.",
-      "guide": "#"
+      "guide": "assets/lok sabha-bg.pdf"
     },
     {
       "name": "UNHSC",
       "type": "Histioric Security Council",
       "agenda": "Evaluating the Geopolitical Consequences and Human Rights Implications of the Soviet Invasion of Afghanistan.",
-      "guide": "#"
+      "guide": "assets/unhsc-bg.pdf"
     },
     {
       "name": "UNHRC",
       "type": "Human Rights Council",
       "agenda": "Investigating Systemic Human Rights Violations in Secret Detention Facilities, Externalized Border Enclaves, and Unofficial Custodial Sites.",
-      "guide": "#"
+      "guide": "assets/unhrc-bg.pdf"
     },
     {
       "name": "UNODC",
       "type": "Office on Drugs and Crime",
       "agenda": "Combating the Online Trafficking of Synthetic Opioids and Disrupting Anonymized Financial Networks on the Darknet.",
-      "guide": "#"
+      "guide": "assets/unodc-bg.pdf"
     },
     {
       "name": "UNSRA",
       "type": "Space Research Association",
       "agenda": "Mitigating the Proliferation of Orbital Debris, Securing Uncontrolled Satellites, and Preventing the Weaponization of Space Infrastructure.",
-      "guide": "#"
+      "guide": "assets/unsra-bg.pdf"
     },
     {
       "name": "JCC",
       "type": "Joint Crisis Comittee",
       "agenda": "Crisis Management of Taiwan -Chinese Conflict",
-      "guide": "#"
+      "guide": "assets/jcc-china-bg.pdf"
+      "guide": "assets/jcc-taiwan-bg.pdf"
+      
     },
     {
       "name": "WHO",
       "type": "World Health Organization",
       "agenda": "Strengthening Global Surveillance Frameworks to Combat Substandard and Falsified Medical Products and Secure International Supply Chains",
-      "guide": "#"
+      "guide": "assets/who-bg.pdf"
     },
     {
-      "name": "ICC",
-      "type": "Criminal Court",
-      "agenda": "The Prosecutor v. Omar al-Bashir (Former President of Sudan).",
+      "name": "UNGA",
+      "type": "General Assembly",
+      "agenda": "Preventing Cyber Warfare: Setting Global Rules for Digital Conflict, Attribution, and the Protection of Civilian Critical Infrastructure.",
       "guide": "#"
     },
   ],
