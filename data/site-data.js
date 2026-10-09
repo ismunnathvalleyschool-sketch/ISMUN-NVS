@@ -26,7 +26,7 @@ window.ISMUN_DATA = {
       "role": "Deputy Secretary-General",
       "name": "Arvika Patil",
       "photo": ""
-    },
+    }
   
   ],
   "committees": [
@@ -62,11 +62,9 @@ window.ISMUN_DATA = {
     },
     {
       "name": "JCC",
-      "type": "Joint Crisis Comittee",
-      "agenda": "Crisis Management of Taiwan -Chinese Conflict",
+      "type": "Joint Crisis Committee",
+      "agenda": "Crisis Management of Taiwan-China Conflict",
       "guide": "assets/jcc-china-bg.pdf"
-      "guide": "assets/jcc-taiwan-bg.pdf"
-      
     },
     {
       "name": "WHO",
