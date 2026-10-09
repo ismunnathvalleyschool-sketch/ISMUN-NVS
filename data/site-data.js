@@ -15,7 +15,7 @@ window.ISMUN_DATA = {
     {
       "role": "Secretary-General",
       "name": "Jahnvi Chechani",
-      "photo": ""
+      "photo": "assets/jc.jpeg"
     },
     {
       "role": "Deputy Secretary-General",
@@ -25,7 +25,7 @@ window.ISMUN_DATA = {
     {
       "role": "Deputy Secretary-General",
       "name": "Arvika Patil",
-      "photo": ""
+      "photo": "assets/ap.jpeg"
     }
   
   ],
