@@ -770,7 +770,7 @@ nav a.active {
 /* GALLERY PHOTOS */
 
 .gallery-photo:hover {
-  transform: scale(1.02);
+  transform: scale(1.5);
   box-shadow: var(--shadow);
 }
 
