@@ -1236,5 +1236,11 @@ code {
     font-size: 9px;
     letter-spacing: 1px;
   }
+  .gallery-grid a {
+    display: block; min-width: 0; min-height: 0; 
+  } 
+  .gallery-grid a .gallery-photo {
+    cursor: pointer; 
+  }
 }
 ```
