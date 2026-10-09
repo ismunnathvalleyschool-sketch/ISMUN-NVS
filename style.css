@@ -773,6 +773,9 @@ nav a.active {
   transform: scale(1.5);
   box-shadow: var(--shadow);
 }
+.gallery-photo {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
 
 .gallery-photo.tall {
   grid-row: span 2;
