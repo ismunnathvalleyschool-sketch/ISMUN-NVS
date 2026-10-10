@@ -63,14 +63,40 @@ footer{background:#030b10;color:#93a19d;padding:35px 8%;display:flex;align-items
   }
 }
 
-/* Resize photos in the messages section */
+
 #messages .message-card img {
-  width: 110px !important;
-  height: 110px !important;
-  max-width: 110px !important;
+  width: 170px !important;
+  height: 190px !important;
+  max-width: 100% !important;
   object-fit: cover;
-  border-radius: 50%;
+  object-position: center;
+  border-radius: 10px;
   display: block;
-  margin: 0 auto 18px;
+  margin: 0 auto 24px;
+}
+
+#messages .message-card {
+  max-width: 1000px;
+  margin: 0 auto 35px;
+  padding: 30px 40px;
+  background: #fffdf9;
+  border-radius: 12px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.07);
+}
+
+#messages .message-content {
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+@media (max-width: 600px) {
+  #messages .message-card {
+    padding: 22px 18px;
+  }
+
+  #messages .message-card img {
+    width: 140px !important;
+    height: 155px !important;
+  }
 }
 
