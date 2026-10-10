@@ -26,6 +26,11 @@ window.ISMUN_DATA = {
       "role": "Deputy Secretary-General",
       "name": "Arvika Patil",
       "photo": "assets/jc.jpeg"
+    },
+    {
+      "role": "USG Design and Technology",
+      "name": "Bhavya Mutha",
+      "photo": "assets/ap.jpeg"
     }
   
   ],
