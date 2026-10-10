@@ -62,13 +62,14 @@ footer{background:#030b10;color:#93a19d;padding:35px 8%;display:flex;align-items
     gap: 10px;
   }
   
-#messages .message-card img {
-  width: 110px;
-  height: 110px;
-  object-fit: cover;
-  border-radius: 50%;
-  display: block;
-  margin: 0 auto 18px;
+#messages 
+  .message-card img {
+    width: 110px;
+    height: 110px;
+    object-fit: cover;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 18px;
  }
 }
 
