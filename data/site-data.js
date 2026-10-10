@@ -30,7 +30,7 @@ window.ISMUN_DATA = {
     {
       "role": "USG Design and Technology",
       "name": "Bhavya Mutha",
-      "photo": "assets/ap.jpeg"
+      "photo": "assets/bm.jpeg"
     }
   
   ],
