@@ -60,7 +60,10 @@ footer{background:#030b10;color:#93a19d;padding:35px 8%;display:flex;align-items
     grid-template-columns: repeat(2, minmax(0, 1fr));
     grid-auto-rows: 150px;
     gap: 10px;
-  }  
+  }
+}
+
+/* Resize photos in the messages section */
 #messages .message-card img {
   width: 110px !important;
   height: 110px !important;
@@ -69,6 +72,5 @@ footer{background:#030b10;color:#93a19d;padding:35px 8%;display:flex;align-items
   border-radius: 50%;
   display: block;
   margin: 0 auto 18px;
-  }
 }
 
