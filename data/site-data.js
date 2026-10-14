@@ -81,7 +81,7 @@ window.ISMUN_DATA = {
       "name": "UNGA",
       "type": "General Assembly",
       "agenda": "Preventing Cyber Warfare: Setting Global Rules for Digital Conflict, Attribution, and the Protection of Civilian Critical Infrastructure.",
-      "guide": "#"
+      "guide": "assets/unga-bg.pdf"
     },
   ],
   "schedule": [
