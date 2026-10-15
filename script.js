@@ -1,6 +1,5 @@
 const data = window.ISMUN_DATA;
 
-document.getElementById("register-btn").href = data.conference.registrationUrl;
 document.getElementById("email-link").textContent = data.conference.contactEmail;
 document.getElementById("email-link").href = "mailto:" + data.conference.contactEmail;
 document.getElementById("wa-link").href = data.conference.whatsappUrl;
