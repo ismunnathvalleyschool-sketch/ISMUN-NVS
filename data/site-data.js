@@ -87,46 +87,66 @@ window.ISMUN_DATA = {
   "schedule": [
     [
       "08:00",
-      "Registration & Welcome",
+      "Reporting Time",
       "Day 1"
     ],
     [
-      "09:00",
+      "08:15 - 8:30",
       "Opening Ceremony",
       "Day 1"
     ],
     [
-      "10:15",
+      "8:45 - 10:45",
       "Committee Session I",
       "Day 1"
     ],
     [
-      "13:00",
-      "Lunch",
+      "10:45 - 11:00",
+      "Short Break",
       "Day 1"
     ],
     [
-      "14:00",
+      "11:00 - 1:00",
       "Committee Session II",
       "Day 1"
     ],
     [
-      "09:00",
+      "1:00 - 1:30",
+      "Lunch",
+      "Day 1"
+    ],
+    [
+      "1:30 - 3:20",
       "Committee Session III",
+      "Day 1"
+    ],
+    [
+      "08:15 - 10:00",
+      "Committee Session IV",
       "Day 2"
     ],
     [
-      "12:30",
+      "10:00",
+      "Short Break",
+      "Day 2"
+    ],
+    [
+      "10:15 - 12:30",
+      "Committee Session V",
+      "Day 2"
+    ],
+    [
+      "12:30 - 1:00",
       "Lunch",
       "Day 2"
     ],
     [
-      "14:00",
-      "Final Session & Voting",
+      "1:00 - 2:30",
+      "Committee Session VI",
       "Day 2"
     ],
     [
-      "16:00",
+      "2:45 - 3:30",
       "Closing Ceremony & Awards",
       "Day 2"
     ]
