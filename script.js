@@ -5,12 +5,30 @@ document.getElementById("email-link").href = "mailto:" + data.conference.contact
 document.getElementById("wa-link").href = data.conference.whatsappUrl;
 
 const committeeGrid = document.getElementById("committee-grid");
+
 committeeGrid.innerHTML = data.committees.map(c => `
   <article class="committee-card reveal">
-    <small>${c.type}</small><h3>${c.name}</h3>
+    <small>${c.type}</small>
+    <h3>${c.name}</h3>
     <p><strong>Agenda:</strong> ${c.agenda}</p>
-    <a href="${c.guide}" target="_blank">BACKGROUND GUIDE →</a>
-  </article>`).join("");
+
+    ${c.name === "JCC" ? `
+      <div class="jcc-guides">
+        <a href="${c.guide}" target="_blank" rel="noopener noreferrer">
+          CHINA BACKGROUND GUIDE →
+        </a>
+
+        <a href="${c.taiwanGuide}" target="_blank" rel="noopener noreferrer">
+          TAIWAN BACKGROUND GUIDE →
+        </a>
+      </div>
+    ` : `
+      <a href="${c.guide}" target="_blank" rel="noopener noreferrer">
+        BACKGROUND GUIDE →
+      </a>
+    `}
+  </article>
+`).join("");
 
 const secretariatGrid = document.getElementById("secretariat-grid");
 secretariatGrid.innerHTML = data.secretariat.map((p,i) => `
