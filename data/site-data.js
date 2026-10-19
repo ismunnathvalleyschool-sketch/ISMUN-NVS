@@ -69,7 +69,7 @@ window.ISMUN_DATA = {
       "name": "JCC",
       "type": "Joint Crisis Committee",
       "agenda": "Crisis Management of Taiwan-China Conflict",
-      "chinaGuide": "assets/jcc-china-bg.pdf",
+      "guide": "assets/jcc-china-bg.pdf",
       "taiwanGuide": "assets/jcc-taiwan-bg.pdf"
     },
     {
